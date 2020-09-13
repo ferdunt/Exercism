@@ -46,10 +46,6 @@ The goal of this exercise is to create a way:
  3# 2 🎉
 ```
 
-## Note
-
-⚠ Input will only contain lowercase characters and spaces. ⚠
-
 ## Links
 
 🔗 [Exercism.io](https://exercism.io/) 🔗
