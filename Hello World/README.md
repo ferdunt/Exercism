@@ -13,7 +13,6 @@ The classical introductory exercise. Just say "Hello, World!".
 The objectives are simple:
 
 -   Write a function that returns the string "Hello, World!".
--   Run the test suite and make sure that it succeeds.
 
 ## 🔗 Links 🔗
 
