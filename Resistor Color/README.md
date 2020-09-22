@@ -1,44 +1,44 @@
 # RESISTOR COLOR
 
-👨🏻‍💻 Solution using Javascript 👨🏻‍💻
+The solution to this problem is written in JavaScript the detail about the problem is below and you can check the solution above.
 
-## Description
+## 💬 Description 💬
 
 Resistors have color coded bands, where each color maps to a number. The first 2 bands of a resistor have a simple encoding scheme: each color maps to a single number.
 
 These colors are encoded as follows:
 
-- Black: 0
-- Brown: 1
-- Red: 2
-- Orange: 3
-- Yellow: 4
-- Green: 5
-- Blue: 6
-- Violet: 7
-- Grey: 8
-- White: 9
+-   Black: 0
+-   Brown: 1
+-   Red: 2
+-   Orange: 3
+-   Yellow: 4
+-   Green: 5
+-   Blue: 6
+-   Violet: 7
+-   Grey: 8
+-   White: 9
 
-## Goal
+## 🏁 Goal 🏁
 
 The goal of this exercise is to create a way:
 
-- to look up the numerical value associated with a particular color band
-- to list the different band colors
+-   to look up the numerical value associated with a particular color band
+-   to list the different band colors
 
-## Input
-
-```
-🥚 "red" 🥚 (String)
-```
-
-## Output
+## 🥚 Input 🥚
 
 ```
-🐣 2 🐣 (Integer)
+"red" (String)
 ```
 
-## Explanation
+## 🐣 Output 🐣
+
+```
+2 (Integer)
+```
+
+## 👓 Explanation 👓
 
 ```
  1# ["black","brown","red",.......]
@@ -46,6 +46,6 @@ The goal of this exercise is to create a way:
  3# 2 🎉
 ```
 
-## Links
+## 🔗 Links 🔗
 
-🔗 [Exercism.io](https://exercism.io/) 🔗
+[Exercism.io](https://exercism.io/)
