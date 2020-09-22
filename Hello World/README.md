@@ -10,7 +10,7 @@ The classical introductory exercise. Just say "Hello, World!".
 
 ## 🏁 Goal 🏁
 
-The objectives are simple:
+The objective is simple:
 
 -   Write a function that returns the string "Hello, World!".
 
