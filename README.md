@@ -1,2 +1,3 @@
-# Exercism
- Solutions for Exercims.io problems using Javascript
+# Exercism.io
+
+Solutions from Exercims.io using Javascript.
