@@ -1,4 +1,4 @@
-# HELLO WORLD
+# PROTEIN TRANSLATION
 
 The solution to this problem is written in JavaScript the detail about the problem is below and you can check the solution above.
 
@@ -43,8 +43,6 @@ UAA, UAG, UGA STOP
 ```
 
 ## 🏁 Goal 🏁
-
-The objective is simple:
 
 -   Write a function that returns the RNA sequence into proteins.
 
